@@ -1,0 +1,221 @@
+{
+  "categories": [
+    { "id": "all", "labelKey": "gallery.filter.all" },
+    { "id": "interior", "labelKey": "gallery.filter.interior" },
+    { "id": "landscape", "labelKey": "gallery.filter.landscape" },
+    { "id": "greenhouse", "labelKey": "gallery.filter.greenhouse" },
+    { "id": "company", "labelKey": "gallery.filter.company" }
+  ],
+  "items": [
+    {
+      "id": "plant-wall-04",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/shop/interior-plant-display-wall-04",
+      "width": 1920,
+      "height": 2560,
+      "captionKey": "media.plant-wall-04",
+      "featured": true
+    },
+    {
+      "id": "shop-storefront-01",
+      "type": "image",
+      "category": "company",
+      "src": "assets/images/shop/storefront-entrance-signage-01",
+      "width": 1920,
+      "height": 2560,
+      "captionKey": "media.shop-storefront-01"
+    },
+    {
+      "id": "shop-storefront-02",
+      "type": "image",
+      "category": "company",
+      "src": "assets/images/shop/storefront-entrance-signage-02",
+      "width": 1920,
+      "height": 2560,
+      "captionKey": "media.shop-storefront-02"
+    },
+    {
+      "id": "lucky-bamboo-01",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/lucky-bamboo-arrangement-01",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.lucky-bamboo-01"
+    },
+    {
+      "id": "lucky-bamboo-02",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/lucky-bamboo-arrangement-02",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.lucky-bamboo-02"
+    },
+    {
+      "id": "planter-shelf-colorful",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/indoor-planter-shelf-colorful",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.planter-shelf-colorful"
+    },
+    {
+      "id": "ceramic-planter-floral",
+      "type": "image",
+      "category": "company",
+      "src": "assets/images/shop/ceramic-planter-floral-large",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.ceramic-planter-floral"
+    },
+    {
+      "id": "aglaonema-display",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/aglaonema-dark-foliage-display",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.aglaonema-display"
+    },
+    {
+      "id": "ceramic-planters-collection",
+      "type": "image",
+      "category": "company",
+      "src": "assets/images/shop/ceramic-planters-collection",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.ceramic-planters-collection"
+    },
+    {
+      "id": "aglaonema-closeup",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/aglaonema-red-pink-closeup",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.aglaonema-closeup"
+    },
+    {
+      "id": "cactus-trio",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/mini-cactus-succulent-trio",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.cactus-trio"
+    },
+    {
+      "id": "calla-lily",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/calla-lily-red-white-blooms",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.calla-lily"
+    },
+    {
+      "id": "dieffenbachia-closeup",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/dieffenbachia-variegated-closeup",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.dieffenbachia-closeup"
+    },
+    {
+      "id": "ceramic-pots-row",
+      "type": "image",
+      "category": "company",
+      "src": "assets/images/shop/modern-ceramic-pots-shelf-row",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.ceramic-pots-row"
+    },
+    {
+      "id": "plant-wall-01",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/shop/interior-plant-display-wall-01",
+      "width": 1600,
+      "height": 1200,
+      "captionKey": "media.plant-wall-01"
+    },
+    {
+      "id": "snake-plant-closeup",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/snake-plant-sansevieria-closeup",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.snake-plant-closeup"
+    },
+    {
+      "id": "plant-wall-02",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/shop/interior-plant-display-wall-02",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.plant-wall-02"
+    },
+    {
+      "id": "calathea-white-star",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/calathea-white-star-closeup",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.calathea-white-star"
+    },
+    {
+      "id": "plant-wall-03-wood",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/shop/interior-plant-display-wall-03-wood",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.plant-wall-03-wood"
+    },
+    {
+      "id": "calathea-rattlesnake",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/calathea-rattlesnake-closeup",
+      "width": 1600,
+      "height": 2133,
+      "captionKey": "media.calathea-rattlesnake"
+    },
+    {
+      "id": "succulent-duo",
+      "type": "image",
+      "category": "interior",
+      "src": "assets/images/plants/succulent-duo-marble-pots",
+      "width": 1600,
+      "height": 1200,
+      "captionKey": "media.succulent-duo"
+    },
+    {
+      "id": "video-greenhouse",
+      "type": "video",
+      "category": "greenhouse",
+      "src": "assets/video/farmland-agriculture-showcase.mp4",
+      "poster": "assets/images/video-posters/farmland-agriculture-poster",
+      "width": 1600,
+      "height": 900,
+      "captionKey": "media.video-greenhouse"
+    },
+    {
+      "id": "video-landscape",
+      "type": "video",
+      "category": "landscape",
+      "src": "assets/video/landscape-garden-showcase.mp4",
+      "poster": "assets/images/video-posters/landscape-garden-poster",
+      "width": 1920,
+      "height": 1080,
+      "captionKey": "media.video-landscape"
+    }
+  ]
+}

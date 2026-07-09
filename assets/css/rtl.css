@@ -1,0 +1,46 @@
+/* ==========================================================================
+   AgroBerry — RTL (Arabic) Refinements
+   Most layout already uses logical properties; this file covers exceptions.
+   ========================================================================== */
+
+[dir='rtl'] body {
+  font-feature-settings: 'kern' 1;
+}
+
+[dir='rtl'] .hero h1,
+[dir='rtl'] .section-head h2,
+[dir='rtl'] h1,
+[dir='rtl'] h2,
+[dir='rtl'] h3 {
+  font-weight: 700;
+}
+
+[dir='rtl'] .eyebrow::before {
+  order: 2;
+}
+
+[dir='rtl'] .stat-number {
+  direction: ltr;
+}
+
+[dir='rtl'] .hero-stat strong {
+  direction: ltr;
+}
+
+[dir='rtl'] .ba-handle-btn svg,
+[dir='rtl'] .faq-icon svg {
+  transform: none;
+}
+
+[dir='rtl'] .service-card .service-index {
+  direction: ltr;
+}
+
+[dir='rtl'] .form-field input[type='tel'] {
+  direction: ltr;
+  text-align: end;
+}
+
+[dir='rtl'] .newsletter-form {
+  direction: rtl;
+}

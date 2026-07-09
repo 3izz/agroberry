@@ -1,0 +1,124 @@
+/* ==========================================================================
+   AgroBerry — Design Tokens
+   ========================================================================== */
+
+:root {
+  /* ---- Brand colors ---- */
+  --color-white: #ffffff;
+  --color-surface: #ffffff;
+  --color-surface-alt: #f6f7f2;
+  --color-surface-alt-2: #eef1ea;
+  --color-surface-dark: #0e1912;
+  --color-surface-dark-2: #142a1c;
+
+  --color-ink: #142019;
+  --color-ink-soft: #4c584f;
+  --color-ink-faint: #7c8880;
+  --color-border: #e4e7de;
+  --color-border-strong: #cfd5c6;
+
+  --color-green-50: #eef6ef;
+  --color-green-100: #d3e9d6;
+  --color-green-200: #a9d3b0;
+  --color-green-300: #7fbb8b;
+  --color-green-400: #4d9d61;
+  --color-green-500: #2f7d48;
+  --color-green-600: #256238;
+  --color-green-700: #1b4a2a;
+  --color-green-800: #14361f;
+  --color-green-900: #0f2e1b;
+
+  --color-red-50: #fcebec;
+  --color-red-100: #f6cdd1;
+  --color-red-300: #e98b98;
+  --color-red-500: #c8203d;
+  --color-red-600: #a61830;
+  --color-red-700: #7e1225;
+
+  --color-gold-50: #fdf5e4;
+  --color-gold-100: #fdf0d8;
+  --color-gold-300: #f6cd7d;
+  --color-gold-500: #efa930;
+  --color-gold-600: #d6901c;
+
+  /* ---- Semantic aliases ---- */
+  --brand-primary: var(--color-green-600);
+  --brand-primary-dark: var(--color-green-800);
+  --brand-accent: var(--color-red-500);
+  --brand-gold: var(--color-gold-500);
+
+  /* ---- Typography ---- */
+  --font-heading-ltr: 'Playfair Display', 'Georgia', serif;
+  --font-body-ltr: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading-rtl: 'Cairo', 'Tahoma', sans-serif;
+  --font-body-rtl: 'Cairo', 'Tahoma', sans-serif;
+
+  --font-heading: var(--font-heading-ltr);
+  --font-body: var(--font-body-ltr);
+
+  --fs-xs: clamp(0.75rem, 0.72rem + 0.15vw, 0.8125rem);
+  --fs-sm: clamp(0.875rem, 0.84rem + 0.18vw, 0.9375rem);
+  --fs-base: clamp(1rem, 0.96rem + 0.2vw, 1.0625rem);
+  --fs-md: clamp(1.125rem, 1.06rem + 0.3vw, 1.25rem);
+  --fs-lg: clamp(1.3rem, 1.2rem + 0.5vw, 1.6rem);
+  --fs-xl: clamp(1.6rem, 1.4rem + 1vw, 2.1rem);
+  --fs-2xl: clamp(2rem, 1.7rem + 1.5vw, 2.9rem);
+  --fs-3xl: clamp(2.5rem, 2rem + 2.5vw, 3.8rem);
+  --fs-4xl: clamp(3rem, 2.2rem + 4vw, 5.2rem);
+
+  --lh-tight: 1.1;
+  --lh-snug: 1.28;
+  --lh-normal: 1.55;
+  --lh-relaxed: 1.75;
+
+  /* ---- Spacing scale ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+  --space-10: 8rem;
+
+  --section-padding-y: clamp(4rem, 3rem + 4vw, 8rem);
+  --container-max: 1320px;
+  --container-padding: clamp(1.25rem, 2vw + 0.5rem, 3rem);
+
+  /* ---- Radii ---- */
+  --radius-sm: 10px;
+  --radius-md: 18px;
+  --radius-lg: 28px;
+  --radius-xl: 40px;
+  --radius-full: 999px;
+
+  /* ---- Shadows ---- */
+  --shadow-sm: 0 2px 10px rgba(15, 26, 20, 0.06);
+  --shadow-md: 0 10px 30px rgba(15, 26, 20, 0.08);
+  --shadow-lg: 0 24px 60px rgba(15, 26, 20, 0.14);
+  --shadow-xl: 0 40px 90px rgba(15, 26, 20, 0.2);
+  --shadow-inset: inset 0 1px 0 rgba(255, 255, 255, 0.4);
+
+  /* ---- Motion ---- */
+  --ease-luxury: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 0.25s;
+  --duration-base: 0.5s;
+  --duration-slow: 0.9s;
+
+  /* ---- Z-index scale ---- */
+  --z-header: 100;
+  --z-fab: 150;
+  --z-overlay: 200;
+  --z-modal: 300;
+  --z-toast: 400;
+
+  color-scheme: light;
+}
+
+[dir='rtl'] {
+  --font-heading: var(--font-heading-rtl);
+  --font-body: var(--font-body-rtl);
+}

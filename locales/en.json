@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "title": "AgroBerry | Landscape Design & Interior Plant Solutions",
+    "description": "AgroBerry designs and maintains premium indoor and outdoor green environments, and supervises agricultural projects including strawberry farms and greenhouses. Landscape design, interior plantscaping, and agricultural consultancy.",
+    "ogTitle": "AgroBerry — Landscape Design & Agricultural Consultancy",
+    "ogDescription": "Premium landscape design, interior plant solutions, and agricultural supervision — from boutique interiors to strawberry greenhouse management."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "videos": "Videos",
+    "why": "Why AgroBerry",
+    "contact": "Contact",
+    "call": "Call Us",
+    "whatsapp": "WhatsApp"
+  },
+  "hero": {
+    "eyebrow": "Landscape Design · Interior Plants · Agricultural Consultancy",
+    "headlineLine1": "Where Nature",
+    "headlineLine2": "Meets Mastery",
+    "subheadline": "AgroBerry cultivates beautiful green environments and supervises agricultural projects — from boutique interior plantscaping to full strawberry farm and greenhouse management.",
+    "ctaPrimary": "Explore Our Services",
+    "ctaSecondary": "Request a Consultation",
+    "scrollHint": "Scroll to discover"
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "heading": "Rooted in Care, Grown Through Expertise",
+    "body1": "AgroBerry began as a boutique plant studio with a simple belief: green spaces should feel designed, not decorated. Today we bring that same precision to interior plantscaping, landscape design, and the agricultural supervision of strawberry farms and greenhouses.",
+    "body2": "Every project starts with observation — of light, soil, climate, and the way people move through a space — before a single plant is chosen. It's this scientific approach, paired with a designer's eye, that sets AgroBerry apart.",
+    "missionTitle": "Mission",
+    "missionBody": "To bring scientifically sound, beautifully designed green solutions to homes, businesses, and farms alike.",
+    "visionTitle": "Vision",
+    "visionBody": "To be the region's most trusted name in landscape design and agricultural consultancy.",
+    "valuesTitle": "Values",
+    "valuesBody": "Precision, craftsmanship, and an honest respect for how living things actually grow.",
+    "stat1Number": "500",
+    "stat1Suffix": "+",
+    "stat1Label": "Interiors Greened",
+    "stat2Number": "1200",
+    "stat2Suffix": "+",
+    "stat2Label": "Plants Delivered & Maintained",
+    "stat3Number": "35",
+    "stat3Suffix": "+",
+    "stat3Label": "Plant & Foliage Varieties",
+    "stat4Number": "98",
+    "stat4Suffix": "%",
+    "stat4Label": "Client Satisfaction",
+    "statsNote": "Figures shown are illustrative — update with verified company data."
+  },
+  "services": {
+    "eyebrow": "What We Do",
+    "heading": "Services Built on Design and Science",
+    "subheading": "From a single office desk to a full-scale strawberry greenhouse, every AgroBerry service blends horticultural science with a refined design sensibility.",
+    "items": {
+      "landscapeDesign": {
+        "title": "Landscape Design",
+        "description": "Bespoke outdoor environments — villas, gardens, and commercial grounds — designed around light, climate, and the way people actually use a space."
+      },
+      "interiorDesign": {
+        "title": "Interior Plant Design",
+        "description": "Curated indoor plantscaping for offices, hotels, restaurants, and homes, using species selected for light conditions, air quality, and aesthetic impact."
+      },
+      "interiorMaintenance": {
+        "title": "Interior Plant Maintenance",
+        "description": "Scheduled care programs — watering, pruning, feeding, and health checks — that keep indoor greenery thriving year-round."
+      },
+      "landscapeMaintenance": {
+        "title": "Landscape Maintenance",
+        "description": "Ongoing grounds care including pruning, irrigation upkeep, seasonal planting, and turf management for lasting outdoor beauty."
+      },
+      "strawberryFarm": {
+        "title": "Strawberry Farm Management",
+        "description": "End-to-end supervision of strawberry farms — planting cycles, crop health, yield optimization, and harvest coordination."
+      },
+      "greenhouse": {
+        "title": "Greenhouse Supervision",
+        "description": "Climate, irrigation, and crop-health oversight for polytunnel and greenhouse operations, engineered for consistent yield."
+      },
+      "agriConsultancy": {
+        "title": "Agricultural Consultancy",
+        "description": "Expert guidance on crop planning, farm operations, and sustainable practices tailored to your land and goals."
+      },
+      "diseaseDiagnosis": {
+        "title": "Plant Disease Diagnosis",
+        "description": "Scientific inspection and diagnosis of plant disease and pest pressure, with clear, actionable treatment plans."
+      },
+      "soilAnalysis": {
+        "title": "Soil Analysis & Treatment",
+        "description": "Laboratory-informed soil analysis paired with customized fertilizer and treatment programs for optimal growth."
+      },
+      "irrigation": {
+        "title": "Irrigation & Fertilizer Consultation",
+        "description": "Water-efficient irrigation planning and tailored fertilizer programs designed around your soil and crop data."
+      },
+      "pestInspection": {
+        "title": "Pest Inspection & Control",
+        "description": "Routine pest inspection and integrated control strategies that protect plant health without unnecessary intervention."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "projects": {
+    "eyebrow": "Our Work",
+    "heading": "A Portfolio Grown With Purpose",
+    "subheading": "Every project reflects the same care — whether it's a single office corner or an entire greenhouse operation.",
+    "filterAll": "All Projects",
+    "filterInterior": "Interior Plant Design",
+    "filterLandscape": "Landscape Design",
+    "filterGreenhouse": "Greenhouse & Strawberry Farms",
+    "filterCompany": "Company & Facilities",
+    "viewProject": "View Project",
+    "items": {
+      "boutiqueStudio": {
+        "title": "Boutique Plant Studio Fit-Out",
+        "category": "Interior Plant Design",
+        "description": "A full interior concept for AgroBerry's own showroom — tiered display shelving, curated ceramics, and a rotating collection of foliage."
+      },
+      "hotelLobby": {
+        "title": "Hotel & Hospitality Interiors",
+        "category": "Interior Plant Design",
+        "description": "Statement planting for hospitality lobbies and lounges, selected for low-light resilience and year-round visual impact."
+      },
+      "ornamentalGarden": {
+        "title": "Ornamental Garden Landscape",
+        "category": "Landscape Design",
+        "description": "A layered evergreen landscape composition using dwarf pines and structured planting beds for texture and year-round interest."
+      },
+      "strawberryGreenhouse": {
+        "title": "Strawberry Greenhouse Supervision",
+        "category": "Greenhouse & Strawberry Farms",
+        "description": "Full-cycle supervision of a polytunnel strawberry operation, from irrigation planning to canopy and yield management."
+      },
+      "terrariumCollection": {
+        "title": "Terrarium & Gift Plant Collections",
+        "category": "Interior Plant Design",
+        "description": "Hand-built glass terrariums and gifting arrangements combining succulents, moss, and decorative stone."
+      },
+      "ceramicCuration": {
+        "title": "Planter & Ceramics Curation",
+        "category": "Company & Facilities",
+        "description": "A sourced collection of hand-finished ceramic and stoneware planters, matched to each plant and interior setting."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Visual Archive",
+    "heading": "A Closer Look at Our Work",
+    "subheading": "Every image is organized by project type — explore interior design, landscape work, and greenhouse operations.",
+    "filter": {
+      "all": "All",
+      "interior": "Interior Plant Design",
+      "landscape": "Landscape Design",
+      "greenhouse": "Greenhouse & Strawberry Farms",
+      "company": "Company & Facilities"
+    },
+    "viewFull": "View Full Size"
+  },
+  "media": {
+    "plant-wall-04": "Layered indoor plant display — curated foliage and flowering species on tiered shelving",
+    "shop-storefront-01": "AgroBerry showroom entrance and signage",
+    "shop-storefront-02": "AgroBerry storefront, street view",
+    "lucky-bamboo-01": "Braided lucky bamboo arrangement in a glass vase",
+    "lucky-bamboo-02": "Lucky bamboo detail, styled with river stone",
+    "planter-shelf-colorful": "Colour-blocked ceramic planters styled on a display shelf",
+    "ceramic-planter-floral": "Hand-painted floral ceramic planter",
+    "aglaonema-display": "Dark ruby aglaonema foliage in a textured white planter",
+    "ceramic-planters-collection": "Curated collection of ceramic planters",
+    "aglaonema-closeup": "Aglaonema 'Red Valentine' foliage close-up",
+    "cactus-trio": "Mixed cactus trio in a modern ceramic tray",
+    "calla-lily": "Flowering calla lily in red and cream",
+    "dieffenbachia-closeup": "Variegated dieffenbachia leaf detail",
+    "ceramic-pots-row": "Row of modern textured ceramic pots",
+    "plant-wall-01": "Mixed foliage display wall, warm lighting",
+    "snake-plant-closeup": "Sansevieria (snake plant) leaf detail",
+    "plant-wall-02": "Layered indoor plant display with anthurium and sansevieria",
+    "calathea-white-star": "Calathea 'White Star' leaf pattern close-up",
+    "plant-wall-03-wood": "Indoor plant shelving against warm wood paneling",
+    "calathea-rattlesnake": "Calathea rattlesnake leaf detail",
+    "succulent-duo": "Succulent duo in marble-finish concrete pots",
+    "video-greenhouse": "Inside an AgroBerry-supervised strawberry greenhouse",
+    "video-landscape": "Ornamental landscape planting, close detail"
+  },
+  "videos": {
+    "eyebrow": "In Motion",
+    "heading": "See AgroBerry at Work",
+    "subheading": "Short visual stories from our landscape and greenhouse projects.",
+    "play": "Play Video",
+    "items": {
+      "landscape": {
+        "title": "Landscape Design in Detail",
+        "category": "Landscape",
+        "description": "A close look at layered evergreen planting and landscape composition."
+      },
+      "greenhouse": {
+        "title": "Inside a Strawberry Greenhouse",
+        "category": "Greenhouse · Farm",
+        "description": "Rows of strawberry plants under polytunnel cultivation, supervised end-to-end by AgroBerry."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Why AgroBerry",
+    "heading": "The Difference Is in the Detail",
+    "subheading": "Six reasons clients trust AgroBerry with their green spaces — indoors, outdoors, and in the field.",
+    "items": {
+      "diagnosis": {
+        "title": "Scientific Diagnosis",
+        "description": "Every recommendation is backed by real inspection — soil analysis, disease diagnosis, and data, not guesswork."
+      },
+      "team": {
+        "title": "Professional Team",
+        "description": "A trained team spanning interior design, landscaping, and agricultural science."
+      },
+      "customized": {
+        "title": "Customized Solutions",
+        "description": "No two spaces — or farms — are alike. Every plan is built around your light, climate, and goals."
+      },
+      "equipment": {
+        "title": "Modern Equipment",
+        "description": "Purpose-built tools and irrigation technology for precise, efficient care."
+      },
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Hand-selected plants, ceramics, and materials — nothing generic, nothing rushed."
+      },
+      "experience": {
+        "title": "Hands-On Experience",
+        "description": "From boutique interiors to full greenhouse operations, we've done the work ourselves."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How We Work",
+    "heading": "A Process Built for Results",
+    "subheading": "Every AgroBerry project — large or small — follows the same disciplined seven-step process.",
+    "steps": {
+      "inspection": { "title": "Inspection", "description": "On-site assessment of light, soil, climate, and existing plant health." },
+      "analysis": { "title": "Analysis", "description": "Lab-informed soil and plant analysis to identify needs and risks." },
+      "planning": { "title": "Planning", "description": "A tailored plan covering species selection, layout, and timeline." },
+      "design": { "title": "Design", "description": "Detailed design concepts — from planting layouts to display styling." },
+      "implementation": { "title": "Implementation", "description": "Careful installation or planting, executed by our trained team." },
+      "maintenance": { "title": "Maintenance", "description": "Ongoing care programs to protect your investment long-term." },
+      "followUp": { "title": "Follow-Up", "description": "Scheduled check-ins to adjust care as seasons and conditions change." }
+    }
+  },
+  "beforeAfter": {
+    "eyebrow": "Transformation",
+    "heading": "Before & After",
+    "subheading": "Drag the slider to see how a styling concept comes together — from empty planters to a fully composed display.",
+    "beforeLabel": "Before",
+    "afterLabel": "After"
+  },
+  "testimonials": {
+    "eyebrow": "Client Voices",
+    "heading": "Trusted by Homes, Hotels & Farms",
+    "subheading": "A selection of feedback from clients across our interior, landscape, and agricultural work.",
+    "sampleNotice": "Sample testimonials — replace with verified client reviews.",
+    "items": [
+      { "quote": "AgroBerry transformed our lobby into something guests genuinely comment on. The plant selection and styling felt custom, not generic.", "name": "Layla H.", "role": "Hotel Operations Manager" },
+      { "quote": "Their supervision of our strawberry greenhouse caught an irrigation issue we'd missed for weeks. Genuinely scientific, not just gardening.", "name": "Omar S.", "role": "Farm Owner" },
+      { "quote": "From the first site visit, it was clear this team understood plants as a design material, not an afterthought.", "name": "Rana K.", "role": "Villa Owner" }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      { "q": "Do you sell plants directly to the public?", "a": "AgroBerry is primarily a design, maintenance, and agricultural consultancy service. Our showroom does host a curated plant and ceramics collection, but our core work is project-based — interior design, landscaping, and farm supervision." },
+      { "q": "Which areas do you serve?", "a": "We work with homes, businesses, and farms across the region. Reach out with your location and project type, and we'll confirm coverage." },
+      { "q": "How does a project usually start?", "a": "Every project begins with an on-site inspection and consultation, followed by a tailored plan covering design, timeline, and cost." },
+      { "q": "Do you offer ongoing maintenance contracts?", "a": "Yes — both interior plant maintenance and landscape maintenance are available as scheduled care programs." },
+      { "q": "Can you diagnose an existing plant health issue?", "a": "Yes. Our plant disease diagnosis and soil analysis services identify the root cause and provide a clear treatment plan." },
+      { "q": "Do you manage strawberry farms remotely or only in person?", "a": "Strawberry farm and greenhouse supervision is primarily hands-on, with scheduled site visits and ongoing consultation between them." }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "heading": "Let's Grow Something Beautiful",
+    "subheading": "Tell us about your space or your farm — we'll follow up with next steps.",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "addressLabel": "Visit Us",
+    "addressValue": "AgroBerry Showroom — address on request",
+    "emailLabel": "Email",
+    "hoursLabel": "Working Hours",
+    "hoursValue": "Saturday – Thursday, 9:00 AM – 8:00 PM",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select a service",
+      "message": "Tell us about your project",
+      "submit": "Send Message",
+      "success": "Thank you — we'll be in touch shortly.",
+      "required": "Please fill in all required fields.",
+      "viaEmail": "Submitting opens your email app with this message pre-filled — sent directly to AgroBerry, no account needed."
+    }
+  },
+  "footer": {
+    "tagline": "Landscape Design & Interior Plant Solutions",
+    "about": "AgroBerry designs, plants, and maintains green environments — indoors, outdoors, and across the farm — with a scientist's precision and a designer's eye.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "newsletterTitle": "Stay Green",
+    "newsletterBody": "Seasonal care tips and project highlights, occasionally.",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterSubmit": "Subscribe",
+    "newsletterSuccess": "Thank you for subscribing.",
+    "rights": "All rights reserved.",
+    "credit": "Design & Development"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "callNow": "Call Now",
+    "whatsappUs": "Message on WhatsApp",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading"
+  }
+}

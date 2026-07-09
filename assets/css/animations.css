@@ -1,0 +1,72 @@
+/* ==========================================================================
+   AgroBerry — Keyframe Animations
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes floatY {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-14px); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@keyframes pulseRing {
+  0% { box-shadow: 0 0 0 0 rgba(200, 32, 61, 0.45); }
+  70% { box-shadow: 0 0 0 14px rgba(200, 32, 61, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(200, 32, 61, 0); }
+}
+
+.fab-whatsapp {
+  animation: pulseRing 2.6s ease-out infinite;
+}
+
+.animate-float {
+  animation: floatY 6s ease-in-out infinite;
+}
+
+.hero-eyebrow {
+  animation: fadeInUp 0.9s var(--ease-out) both;
+}
+
+.hero h1 {
+  animation: fadeInUp 1s var(--ease-out) 0.15s both;
+}
+
+.hero p.lead {
+  animation: fadeInUp 1s var(--ease-out) 0.3s both;
+}
+
+.hero-ctas {
+  animation: fadeInUp 1s var(--ease-out) 0.45s both;
+}
+
+.hero-stats {
+  animation: fadeInUp 1s var(--ease-out) 0.6s both;
+}
+
+.loading-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  border-top-color: var(--color-white);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fab-whatsapp,
+  .animate-float,
+  .hero-eyebrow,
+  .hero h1,
+  .hero p.lead,
+  .hero-ctas,
+  .hero-stats {
+    animation: none;
+  }
+}

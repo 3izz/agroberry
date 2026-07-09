@@ -1,0 +1,9 @@
+# Original uploaded photos/videos before optimization — kept locally as an
+# archive only. The 4K source video exceeds GitHub's 100MB file limit, and
+# none of this is needed by the deployed site (see assets/ for the
+# optimized, web-ready versions actually used by index.html).
+source-media/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
